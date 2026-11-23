@@ -39,3 +39,6 @@ A Windows PC offline MyClub progression mod by 吹雪可萝卡菲特, featuring 
 - If you already installed the November 18, 2026 V1 base, close the game and apply the November 19 cumulative update directly. Back up the mod's `data\gateway` and `data\client\Documents` folders first. MyClub progression is stored in `data\gateway\my-team.sqlite3`.
 - Keep the Steam installation and the mod installation separate. Apply mod files and updates to your mod installation. Use Steam's file verification on the original Steam installation.
 - If the game reports that it cannot reach the server, launch the original from Steam, let the in-game Live Update complete, reach the main menu, then exit and relaunch the mod. If the issue persists, check `data\gateway\growth-startup.log` and `data\gateway\growth.log` in the mod installation.
+It should look like this when everything's done.
+- <img width="617" height="417" alt="68d92723-2aba-4b29-bfeb-4e59577cf41f" src="https://github.com/user-attachments/assets/fc56dbb6-d820-43e2-a8f4-b90182fb0a44" />
+
