@@ -1,5 +1,7 @@
 # eFootball 2027 PC Offline MyClub Mod
 
+https://t.me/+UP0r1sX3ZXNhYTY0 You can find me via this telegram group.
+
 ## 中文
 
 吹雪可萝卡菲特制作的 Windows PC 离线 MyClub 养成模组，包含球员签约、培养和比赛奖励。部分页面目前仅提供中文。
